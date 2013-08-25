@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
 /* Carousel base class */
 .carousel {
   margin-bottom: 60px;
@@ -21,4 +25,8 @@
   left: 0;
   min-width: 100%;
   height: 500px;
+=======
+.navbar-brand img {
+	
+>>>>>>> 64c9231933da0e83d8beda52e7b46e4ea7804626
 }
