@@ -49,3 +49,59 @@ body > .container {
 .aboutDaya{
   margin: 50px;
 }
+#buttonFrame {
+  width: 100%;
+  background: #FFFFFF;
+  padding: 0px;
+  border-top: 1px solid #00102A;
+  border-bottom: 1px solid #00102A;
+}
+.buttonContainer{
+  width:940px;
+  margin:0px auto;
+}
+.buttonLayer:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.buttonLayer{
+  list-style:none;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.buttonLabel{
+  width:300px;
+  float:left;
+  padding-left:40px;
+}
+.news{
+  width: 510px;
+  padding-left: 200px;
+}
+#buttonFrame ul li a {
+  display: block;
+  text-align: left;
+  background: #000;
+  border: 1px solid #000;
+  font-size: 15px;
+  line-height: 25px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background-repeat: no-repeat;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  text-shadow: 1px 0px 0px rgba(0, 0, 0, 1);
+  color: #FFFFFF;
+  }
+#buttonFrame ul li a#member {
+  padding: 10px 30px;
+  text-align: center;
+}
+#buttonFrame ul li a#subscribe {
+  padding: 10px 30px;
+  text-align: center;
+}
