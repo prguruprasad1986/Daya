@@ -1,13 +1,14 @@
 body {
-  background-image: url("../images/bg_noise.png"); 
+  /*background-image: url("../images/bg_noise.png"); */
+  background-color: #f9f9f7; 
 }
 
 body > .container {
   background-color: #fff;
   min-height: 650px;
-  border: 1px solid #E2E2E2;
+  border: 1px solid #e0e0df;
   margin: 50px auto;
-  box-shadow: 0 1px 8px rgba(0, 0, 0, .15);
+  /*box-shadow: 0 1px 8px rgba(0, 0, 0, .15);*/
 }
 .container {
   max-width: 940px;
@@ -33,8 +34,12 @@ body > .container {
   position: absolute;
   top: 0;
   left: 0;
-  min-width: 100%;
-  height: 500px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+.carousel-inner > .item > .kid {
+  background-color: #fff;
+  left:5%;
 }
 .carousel-caption {
 	right: 10%;
