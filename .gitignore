@@ -1,0 +1,6 @@
+Daya.iml
+syntax: glob
+*.class
+out/
+war/Daya
+war/WEB-INF/classes

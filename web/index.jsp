@@ -1,3 +1,4 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -77,8 +78,8 @@
                 <p><a class="btn btn-success btn-lg" href="#">Success Stories &raquo</a></p>
               </div>
             </div>
-          </div>        
-        </div>      
+          </div>
+        </div>
         <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
         <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
       </div><!-- /.carousel -->
