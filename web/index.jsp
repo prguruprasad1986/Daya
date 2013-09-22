@@ -88,11 +88,11 @@
         <span>DAYA is a group of young professionals who are willing to work towards eradicating the inability of the ‘economically weaker’ students in continuing their education at any level (School / Diploma / Bachelors / Masters). DAYA intends to identify the deserving students from the economically weaker sections of the society and support them with cash/kind.</span>
       </div>
 
-      <div id="buttonFrame">
+      <div class="buttonFrame">
         <div class="buttonContainer">
-        <ul class="buttonLayer">
-          <li class="buttonLabel"><a href="" id="member">Become a Member</a></li>
-          <li class="buttonLabel news"><a href="http://eepurl.com/EbsBP" id="subscribe">Subscribe To Newsletter</a></li>
+        <ul>
+          <a href="#" class="btn btn-primary btn-lg">Become a Member</a>
+          <a href="http://eepurl.com/EbsBP" class="btn btn-primary btn-lg news">Subscribe To Newsletter</a>
         </ul>
         </div>
       </div>
