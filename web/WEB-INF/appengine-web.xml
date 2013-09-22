@@ -7,5 +7,6 @@
     <include path="css/**" />
     <include path="images/**" />
     <include path="fonts/**" />
+    <include path="scripts/**" />
   </static-files>
 </appengine-web-app>
