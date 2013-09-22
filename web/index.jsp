@@ -36,15 +36,8 @@
  <!-- Carousel
     ================================================== -->
       <div id="myCarousel" class="carousel slide">
-        <!-- Indicators -->
-  <!--       <ol class="carousel-indicators">
-          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-          <li data-target="#myCarousel" data-slide-to="1"></li>
-          <li data-target="#myCarousel" data-slide-to="2"></li>
-        </ol>
-   -->      <div class="carousel-inner">
+        <div class="carousel-inner">
           <div class="item active">
-            <!-- <img src="images/slide-01.jpg" data-src="holder.js/100%x500/auto/#777:#7a7a7a/text:First slide" alt="First slide"> -->
             <img class="kid" src="images/kids/jagan.jpg"/>
             <img class="shadow" src="images/slide_bg.png"/>
             <div class="container">
@@ -56,7 +49,6 @@
             </div>
           </div>
           <div class="item">
-            <!-- <img src="images/slide-01.jpg" data-src="holder.js/100%x500/auto/#777:#7a7a7a/text:Second slide" alt="Second slide"> -->
             <img class="kid" src="images/kids/jagan.jpg"/>
             <img class="shadow" src="images/slide_bg.png"/>
             <div class="container">
@@ -68,7 +60,6 @@
             </div>
           </div>
           <div class="item">
-            <!-- <img src="images/slide-01.jpg" data-src="holder.js/100%x500/auto/#777:#7a7a7a/text:Third slide" alt="Third slide"> -->
             <img class="kid" src="images/kids/jagan.jpg"/>
             <img class="shadow" src="images/slide_bg.png"/>
             <div class="container">
